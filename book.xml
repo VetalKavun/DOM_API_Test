@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<BookInfo>
+    <Book quantity="1">
+        <BookName>Thinking in Java</BookName>
+        <BookPrice>400</BookPrice>
+        <BookAuthor>Bruce Eckel</BookAuthor>
+    </Book>
+    
+    <Book quantity="2">
+        <BookName>JavaEE Patterns</BookName>
+        <BookPrice>700</BookPrice>
+        <BookAuthor>Deepak Alur</BookAuthor>
+    </Book>
+</BookInfo>
+
